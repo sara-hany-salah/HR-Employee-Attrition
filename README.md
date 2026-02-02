@@ -1,21 +1,21 @@
-project name:
+Project Name: Human Resources Dataset Analysis
 
-project description:
+project description: HR data analysis project using Power BI to analyze employee satisfaction, salaries, and attrition through data cleaning, analysis, and visualization.
 
 
 team members:-
 
--sara hany salah:
+-sara hany salah: Data cleaning
 
--asmaa samir abdelaziz:
+-asmaa samir abdelaziz: Feature Engineering 
 
--veronia ehab sobhy eid:
+-veronia ehab sobhy eid: Data Preparation
 
--sama mohamed nabil younes:
+-sama mohamed nabil younes: Exploratory Data Analysis
 
--ahmed atef atwa mohamed:
+-ahmed atef atwa mohamed: Trend Analysis & Simple Forcasting
 
--moustafa mohamed omar:
+-moustafa mohamed omar: Power Pi Dashboard Development 
 
 instructor name:
 --kareem bakli
