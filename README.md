@@ -1,24 +1,27 @@
-Project Name: Human Resources Dataset Analysis
+## Project Name
+UK Train Rides
 
-project description: HR data analysis project using Power BI to analyze employee satisfaction, salaries, and attrition through data cleaning, analysis, and visualization.
+## Project Description
+Interactive Power BI dashboard analyzing UK train ride performance, travel trends, and ticket revenue insights.
 
 
-team members:-
+## Team Members
 
--sara hany salah: Data cleaning
+-Sara Hany salah:Project Lead
 
--asmaa samir abdelaziz: Feature Engineering 
+-Asmaa Samir Abdelaziz: Data Cleaning & Preprocessing
 
--veronia ehab sobhy eid: Data Preparation
+-Veronia Ehab Sobhy Eid: Data Modeling
 
--sama mohamed nabil younes: Exploratory Data Analysis
+-Sama Mohamed Nabil Younes: DAX & Measures
 
--ahmed atef atwa mohamed: Trend Analysis & Simple Forcasting
+-Ahmed Atef Atwa Mohamed: Dashboard Design
 
--moustafa mohamed omar: Power Pi Dashboard Development 
+-Moustafa Mohamed Omar: Presentation & Storytelling
 
-instructor name:
---kareem bakli
+## Instructor Name
+ENG: Kareem Bakli
 
+## Google Drive Link
 https://drive.google.com/drive/folders/1wI0Vr_G1N3d8rJ-3eJI064j5NnCaE4Kf
 
