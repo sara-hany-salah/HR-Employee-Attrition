@@ -1,5 +1,5 @@
 ## Project Name
-UK Train Rides
+WA_Fn-UseC_-HR-Employee-Attrition
 
 ## Project Description
 Interactive Power BI dashboard analyzing UK train ride performance, travel trends, and ticket revenue insights.
