@@ -1,23 +1,23 @@
 ## Project Name
-WA_Fn-UseC_-HR-Employee-Attrition
+HR-Employee-Attrition
 
 ## Project Description
-Interactive Power BI dashboard analyzing UK train ride performance, travel trends, and ticket revenue insights.
+"A Power BI dashboard analyzing IBM HR data to identify key drivers of employee attrition and provide actionable insights for improving retention strategies."
 
 
 ## Team Members
 
--Sara Hany salah:Project Lead
+-Sara Hany salah: Project Lead
 
 -Asmaa Samir Abdelaziz: Data Cleaning & Preprocessing
 
--Veronia Ehab Sobhy Eid: Data Modeling
+-Moustafa Mohamed Omar: Data Modeling
 
 -Sama Mohamed Nabil Younes: DAX & Measures
 
 -Ahmed Atef Atwa Mohamed: Dashboard Design
 
--Moustafa Mohamed Omar: Presentation & Storytelling
+-Veronia Ehab Sobhy Eid: Presentation & Storytelling
 
 ## Instructor Name
 ENG: Kareem Bakli
